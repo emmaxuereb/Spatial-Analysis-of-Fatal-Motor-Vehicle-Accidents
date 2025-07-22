@@ -36,5 +36,5 @@ Key packages include:
 
 ## Notes
 
-- The study focuses on 26 eastern U.S. states as defined by World Population Review.
+- The study focuses on the eastern U.S. states.
 - Counties with very few reported accidents were excluded to avoid distortions in fatality rate calculations.

@@ -5,7 +5,7 @@ This project analyzes the fatality rate of motor vehicle accidents across counti
 ## Files Used
 
 - `2022_Fatal_Motor_Vehicle_Accidents_(FARS).shp`: Shapefile of fatal accidents from the Fatality Analysis Reporting System.
-- `US_Accidents_2022_filtered.csv`: Dataset of all U.S. traffic accidents in 2022 (filtered for relevant records).
+- `US_Accidents_2022_filtered.csv`: Dataset of Eastern U.S. traffic accidents in 2022 (filtered for relevant records).
 
 ## Data Source
 

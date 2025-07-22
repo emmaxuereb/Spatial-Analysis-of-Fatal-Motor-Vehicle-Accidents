@@ -38,3 +38,8 @@ Key packages include:
 
 - The study focuses on the eastern U.S. states.
 - Counties with very few reported accidents were excluded to avoid distortions in fatality rate calculations.
+
+- ---
+
+This project was carried out as part of a group assignment for the Applied Data Science Master's program at Utrecht University.
+
